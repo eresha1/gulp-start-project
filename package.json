@@ -1,0 +1,16 @@
+{
+  "name": "gulp-start-project",
+  "version": "1.0.0",
+  "description": "gulp start project",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eresha1/gulp-start-project.git"
+  },
+  "keywords": ["gulp", "sass", "js"],
+  "author": "Irina Butina",
+  "license": "ISC"
+
+}
